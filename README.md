@@ -13,8 +13,8 @@ Machine Learning will be used to develop a pricing model that effectively predic
 
 The dependent variable is the Price
 
-Exploratory Data Analysis
-Pre-processing
-Linear Regression Modeling
-Performance Evaluation
-Insights and Recommendations
+- Exploratory Data Analysis
+- Pre-processing
+- Linear Regression Modeling
+- Performance Evaluation
+- Insights and Recommendations
