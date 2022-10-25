@@ -21,7 +21,7 @@ The dependent variable is the Price
 - Insights and Recommendations
 
 ***********************************
-Loan Modelling
+Loan Modelling:
 
 The bank wants to rapidly expand their Customer base to bring in more loan business and therefore earn more through the interest on loans.
 They have requested an exploration of converting its Liability Customers to Personal Loan Customers while retaining them as depositors.
@@ -38,8 +38,7 @@ The dependent variable is Personal Loan
 - Insights and Recommendations
 
 ***********************************
-
-Credit Card Analysis
+Credit Card Analysis:
 
 The bank would like to market to new and existing customers to improve its services. Data from existing customers can be analyzed to identify customer preference for interaction.
 
